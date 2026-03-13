@@ -58,7 +58,7 @@ Next ==
     \/ PourJug3ToJug5
     \/ PourJug5ToJug3
 
-Goal ==
+NotFound ==
     jug5 /= 4
 
 Spec ==
